@@ -6,7 +6,7 @@ export const contactsData = {
     facebook: 'https://www.facebook.com/langa.hoohlo.3/',
     linkedIn: 'https://www.linkedin.com/in/langa-hoohlo-404608229/',
     twitter: 'https://twitter.com/LangaHoohlo',
-    medium: 'https://medium.com/@abusaid-bd',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    medium: '',
+    stackOverflow: '',
+    devUsername: ""
 }
