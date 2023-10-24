@@ -6,29 +6,29 @@ import six from '../assets/svg/projects/six.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
+        projectName: 'Matlo Lesotho',
+        projectDesc: 'This is an app for real estate in Lesotho.',
+        tags: ['Flutter', 'Firebase', 'Dart'],
         code: '',
-        demo: 'https://www.aylanetworks.com/',
+        demo: '',
         image: six
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        projectName: 'Malutimingle',
+        projectDesc: 'A basotho dating site.',
+        tags: ['Python', 'Django', 'Tailwind CSS', 'PostgreSQL'],
+        code: 'https://github.com/Langahoohlo/suprme-octo.git',
+        demo: 'https://wwww.malutimingle.com/',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        projectName: 'Units App',
+        projectDesc: 'This project was a school project to help students save unit notes on their phones.',
+        tags: ['Flutter', 'Backendless'],
+        code: 'https://github.com/Langahoohlo/units_app.git',
+        demo: '',
         image: eight
     }
 ]

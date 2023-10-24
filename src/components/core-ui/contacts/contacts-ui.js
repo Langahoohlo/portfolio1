@@ -196,7 +196,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
                 </a>
               )}
 
-              {contactsData.medium && (
+              {/* {contactsData.medium && (
                 <a
                   href={contactsData.medium}
                   target='_blank'
@@ -205,7 +205,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
                 >
                   <FaMediumM aria-label='Medium' />
                 </a>
-              )}
+              )} */}
 
               {contactsData.youtube && (
                 <a
@@ -218,7 +218,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
                 </a>
               )}
 
-              {contactsData.stackOverflow && (
+              {/* {contactsData.stackOverflow && (
                 <a
                   href={contactsData.stackOverflow}
                   target='_blank'
@@ -227,7 +227,7 @@ const ContactUI = ({ open, success, errMsg, handleClose, classes, handleContactF
                 >
                   <FaStackOverflow aria-label='Stack Overflow' />
                 </a>
-              )}
+              )} */}
               {contactsData.facebook && (
                 <a
                   href={contactsData.facebook}
